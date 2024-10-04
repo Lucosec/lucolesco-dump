@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Lucolesco&#39;s Dump</title>
-    <link>https://examplesite.com/</link>
+    <link>https://lucolesco-dump.pages.dev/</link>
     <description>Recent content on Lucolesco&#39;s Dump</description>
     <image>
       <title>Lucolesco&#39;s Dump</title>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://lucolesco-dump.pages.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://lucolesco-dump.pages.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.121.2</generator>
     <language>en</language>
     <lastBuildDate>Thu, 03 Oct 2024 18:42:07 -0300</lastBuildDate>
-    <atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lucolesco-dump.pages.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome!!</title>
-      <link>https://examplesite.com/categories/damn/welcome/</link>
+      <link>https://lucolesco-dump.pages.dev/categories/damn/welcome/</link>
       <pubDate>Thu, 03 Oct 2024 18:42:07 -0300</pubDate>
-      <guid>https://examplesite.com/categories/damn/welcome/</guid>
+      <guid>https://lucolesco-dump.pages.dev/categories/damn/welcome/</guid>
       <description>Welcome y&amp;#39;all!</description>
     </item>
   </channel>
